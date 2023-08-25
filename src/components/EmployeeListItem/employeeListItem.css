@@ -1,0 +1,21 @@
+.EmployeeListItem{
+    border: solid 1px #e9ecef;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    
+}
+.Image {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top:30px;
+    background-color: rgb(205, 226, 205);
+}
+.Info{
+    display: flex;
+    flex-direction: column;  
+}
+

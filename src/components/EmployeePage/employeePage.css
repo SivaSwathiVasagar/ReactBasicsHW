@@ -1,0 +1,22 @@
+.EmployeePage{
+    border: solid 2px #fcd5ce;
+    flex: 1;
+    flex-direction: column;
+}
+.EmployeePage div{
+    border: 1px solid #e9ecef; 
+    padding-left: 10px;
+}
+.ProfileIcon {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    background-color: #9a8c98;
+}
+.employeeOverview{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    height: 200px;
+}
